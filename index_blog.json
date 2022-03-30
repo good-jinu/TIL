@@ -15,5 +15,11 @@
     "title": "Dijkstra algorithm",
 		"desc": "Find the shortest paths from source to all vertices",
 		"md": "https://raw.githubusercontent.com/good-jinu/TIL/master/algorithm/dijkstra.md"
+  },
+
+  {
+    "title": "git reflog and gc",
+    "desc": "Git provides a number of administrative commands to help you out.",
+    "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/git/reflog%26gc.md"
   }
 ]
