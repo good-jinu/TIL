@@ -21,5 +21,11 @@
     "title": "git reflog and gc",
     "desc": "Git provides a number of administrative commands to help you out.",
     "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/git/reflog%26gc.md"
+  },
+  
+  {
+    "title": "About web crawling",
+    "desc": "Let's extract datas from web and .",
+    "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/web_crawl/AboutWebCrawling.md"
   }
 ]
