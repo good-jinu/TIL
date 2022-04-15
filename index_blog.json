@@ -33,5 +33,11 @@
     "title": "Tiling problem",
     "desc": "Solve tiling problem with dynamic programing",
     "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/algorithm/tiling_problem.md"
+  },
+  
+  {
+    "title": "Escaping marble2",
+    "desc": "baekjoon's 13460 problem",
+    "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/algorithm/baekjoon13460.md"
   }
 ]
