@@ -39,5 +39,11 @@
     "title": "Escaping marble2",
     "desc": "baekjoon's 13460 problem",
     "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/algorithm/baekjoon13460.md"
+  },
+  
+  {
+    "title": "Escape the maze",
+    "desc": "2021 kakao internship coding test's problem",
+    "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/algorithm/2021kakao_escape_maze.md"
   }
 ]
