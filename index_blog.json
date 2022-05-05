@@ -45,5 +45,11 @@
     "title": "Escape the maze",
     "desc": "2021 kakao internship coding test's problem",
     "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/algorithm/2021kakao_escape_maze.md"
+  },
+
+  {
+    "title": "Samsung codingtest 2022.05. afternoon quiz 1",
+    "desc": "every team makes train going around their own lane. and they catch the balls to gain the score",
+    "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/algorithm/samsung_codingtest_2022_05_pm_q1.md"
   }
 ]
