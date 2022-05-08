@@ -51,5 +51,11 @@
     "title": "Samsung codingtest 2022.05. afternoon quiz 1",
     "desc": "every team makes train going around their own lane. and they catch the balls to gain the score",
     "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/algorithm/samsung_codingtest_2022_05_pm_q1.md"
+  },
+
+  {
+    "title": "t distribution",
+    "desc": "In probability and statistics, Student's t-distribution (or simply the t-distribution) is any member of a family of continuous probability distributions that arise when estimating the mean of a normally distributed population in situations where the sample size is small and the population's standard deviation is unknown.",
+    "md": "https://raw.githubusercontent.com/good-jinu/TIL/master/statistics/t_distribution.md"
   }
 ]
